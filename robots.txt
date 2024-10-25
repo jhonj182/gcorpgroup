@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+sitemap:https://gcorpgroup.com.co/sitemap.xml
+sitemap:https://gcorpgroup.com.co/sitemap-1.xml
+sitemap:https://gcorpgroup.com.co/sitemap-2.xml
+sitemap:https://gcorpgroup.com.co/sitemap-3.xml
+sitemap:https://gcorpgroup.com.co/sitemap-4.xml
+sitemap:https://gcorpgroup.com.co/sitemap-5.xml
+sitemap:https://gcorpgroup.com.co/sitemap-6.xml
+sitemap:https://gcorpgroup.com.co/sitemap-7.xml
+sitemap:https://gcorpgroup.com.co/sitemap-8.xml
+sitemap:https://gcorpgroup.com.co/sitemap-9.xml
+sitemap:https://gcorpgroup.com.co/sitemap-10.xml
+sitemap:https://gcorpgroup.com.co/sitemap-11.xml
+sitemap:https://gcorpgroup.com.co/sitemap-12.xml
+sitemap:https://gcorpgroup.com.co/sitemap-13.xml
+sitemap:https://gcorpgroup.com.co/sitemap-14.xml
+sitemap:https://gcorpgroup.com.co/sitemap-15.xml
+sitemap:https://gcorpgroup.com.co/sitemap-16.xml
+sitemap:https://gcorpgroup.com.co/sitemap-17.xml
+sitemap:https://gcorpgroup.com.co/sitemap-18.xml
